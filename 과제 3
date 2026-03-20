@@ -22,3 +22,5 @@ int main() {
 			printf("\n\t");
 		}
 	}
+return 0;
+}
