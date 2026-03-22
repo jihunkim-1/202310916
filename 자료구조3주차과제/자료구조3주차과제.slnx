@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="자료구조3주차과제/자료구조3주차과제.vcxproj" />
+</Solution>
